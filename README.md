@@ -16,3 +16,5 @@
 ## Documentation
 
 - Documentation of this project and how to use the api can be found at https://documenter.getpostman.com/view/21609093/2sA2rDwgEw
+
+NOTE: The `.env` was exposed in this project purposely so tester can interact with the database
